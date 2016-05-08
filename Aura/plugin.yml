@@ -1,0 +1,4 @@
+name: mAntiCheat
+version: 1.0
+main: manticheat.main.Main
+author: [Jeremy Gooch (Googlelover1234)]
